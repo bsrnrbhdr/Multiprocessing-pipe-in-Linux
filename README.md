@@ -1,6 +1,6 @@
 # Multiprocessing-pipe-in-Linux
 
-A letter frequency counter program in Linux with using pipes.
+A letter frequency counter program in Linux using pipes.
 
 •	The child processes searching the file for the character in the interval received, computes their frequencies and return them through stdout to the parent process's pipe. 
 
